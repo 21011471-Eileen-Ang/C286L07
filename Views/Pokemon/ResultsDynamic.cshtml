@@ -1,0 +1,58 @@
+﻿@model List<dynamic>
+@{
+    Layout = "_C286";
+}
+
+@section Script {
+<style>
+    pre {
+        font-family: Consolas;
+        font-size: small;
+        font-weight: bold;
+        color: darkred;
+    }
+</style>
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <a asp-action="Index">Back to LINQ Demo</a>
+</div>
+
+<div style="background-color: white;">
+    <div>
+        <pre>List&lt;Pokedex&gt; data = _dbCtx.Pokedex.ToList();</pre>
+        <pre>@ViewData["Query"]</pre>
+    </div>
+
+    @if (Model != null)
+    {
+        var columns = Model[0] as IDictionary<string, object>;
+        <table class="table table-bordered table-condensed table-hover table-striped">
+            <thead>
+                <tr>
+                    @foreach (string title in columns!.Keys)
+                    {
+                            <td>@title</td>
+                    }
+                </tr>
+            </thead>
+
+            @foreach (dynamic row in Model)
+            {
+                var obj = row as IDictionary<string, object>;
+                    <tr>
+                    @foreach (string heading in columns.Keys)
+                    {
+                                <td>@obj![heading]</td>
+                    }
+                    </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <h3>No data passed in</h3>
+    }
+</div>

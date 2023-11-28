@@ -1,0 +1,32 @@
+﻿@model int
+
+@{
+    Layout = "_C286";
+    // TODO L07 TASK 1D: Razor Ex04
+    // Based on the number passed from the controller, 
+    // display the phrase "Line x" on every line, 
+    // where x starts at 1 and ends at that number
+}
+
+<!--
+    Example: number passed from the controller is 5
+
+    Output will be:
+    Line 1
+    Line 2
+    Line 3
+    Line 4
+    Line 5
+-->
+<div style="background-color: white;">
+
+
+    @for (int i = 1; i <= Model; i++)
+    {
+        <p>Line @i</p>
+    }
+
+
+
+
+</div>

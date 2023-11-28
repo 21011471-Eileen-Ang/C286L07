@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltoimage.exe"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\Rotativa\\wkhtmltox.dll",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltox.dll"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\ExImg1.jpg",
+      "PackagePath": "staticwebassets\\images\\ExImg1.jpg"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\ExImg2.jpg",
+      "PackagePath": "staticwebassets\\images\\ExImg2.jpg"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\0-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\0-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\1-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\1-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\10-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\10-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\100-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\100-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\101-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\101-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\102-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\102-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\103-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\103-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\104-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\104-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\105-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\105-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\106-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\106-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\107-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\107-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\108-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\108-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\109-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\109-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\11-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\11-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\110-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\110-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\111-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\111-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\112-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\112-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\113-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\113-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\114-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\114-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\115-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\115-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\116-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\116-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\117-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\117-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\118-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\118-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\119-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\119-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\12-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\12-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\120-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\120-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\121-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\121-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\122-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\122-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\123-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\123-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\124-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\124-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\125-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\125-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\126-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\126-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\127-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\127-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\128-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\128-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\129-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\129-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\13-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\13-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\130-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\130-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\131-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\131-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\132-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\132-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\133-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\133-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\134-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\134-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\135-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\135-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\136-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\136-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\137-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\137-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\138-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\138-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\139-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\139-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\14-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\14-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\140-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\140-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\141-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\141-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\142-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\142-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\143-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\143-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\144-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\144-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\145-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\145-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\146-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\146-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\147-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\147-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\148-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\148-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\149-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\149-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\15-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\15-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\150-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\150-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\16-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\16-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\17-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\17-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\18-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\18-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\19-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\19-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\2-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\2-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\20-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\20-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\21-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\21-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\22-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\22-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\23-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\23-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\24-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\24-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\25-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\25-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\26-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\26-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\27-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\27-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\28-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\28-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\29-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\29-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\3-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\3-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\30-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\30-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\31-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\31-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\32-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\32-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\33-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\33-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\34-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\34-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\35-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\35-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\36-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\36-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\37-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\37-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\38-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\38-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\39-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\39-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\4-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\4-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\40-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\40-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\41-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\41-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\42-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\42-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\43-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\43-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\44-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\44-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\45-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\45-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\46-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\46-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\47-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\47-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\48-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\48-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\49-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\49-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\5-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\5-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\50-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\50-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\501-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\501-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\51-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\51-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\52-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\52-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\53-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\53-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\54-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\54-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\55-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\55-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\56-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\56-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\57-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\57-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\58-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\58-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\59-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\59-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\6-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\6-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\60-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\60-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\61-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\61-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\62-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\62-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\63-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\63-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\64-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\64-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\65-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\65-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\66-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\66-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\67-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\67-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\68-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\68-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\69-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\69-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\7-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\7-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\70-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\70-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\71-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\71-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\72-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\72-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\73-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\73-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\74-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\74-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\75-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\75-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\76-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\76-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\77-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\77-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\78-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\78-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\79-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\79-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\8-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\8-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\80-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\80-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\81-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\81-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\82-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\82-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\83-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\83-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\84-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\84-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\85-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\85-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\86-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\86-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\87-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\87-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\88-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\88-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\89-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\89-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\9-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\9-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\90-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\90-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\91-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\91-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\92-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\92-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\93-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\93-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\94-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\94-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\95-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\95-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\96-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\96-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\97-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\97-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\98-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\98-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\988-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\988-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\pokemon\\99-200.png",
+      "PackagePath": "staticwebassets\\images\\pokemon\\99-200.png"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\images\\rp-20.jpg",
+      "PackagePath": "staticwebassets\\images\\rp-20.jpg"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\bootstrap\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\umd\\popper.js"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\jquery\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\jquery\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\C286\\MyVSCode\\Lesson07\\wwwroot\\lib\\jquery\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Lesson07.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Lesson07.props",
+      "PackagePath": "build\\Lesson07.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Lesson07.props",
+      "PackagePath": "buildMultiTargeting\\Lesson07.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Lesson07.props",
+      "PackagePath": "buildTransitive\\Lesson07.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

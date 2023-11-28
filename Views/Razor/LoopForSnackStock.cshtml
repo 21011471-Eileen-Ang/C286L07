@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "_C286";
+}
+
+@{
+    var myRation =
+       new List<Snack> {
+         new Snack("Eclair", 2.5, 12),
+         new Snack("Muffin", 5.43, 41)
+       };
+}
+<div style="background-color: white;">
+@for (int i = 0; i < myRation.Count; i++)
+{
+    var p = myRation[i];
+    <div>Name: @p.Name</div>
+    <div>Price: @p.Price</div>
+    <div>Stock:  @p.Stock</div>
+}
+</div>
+
+
+

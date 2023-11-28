@@ -1,0 +1,54 @@
+﻿@model Client
+
+@{
+  // TODO L07 TASK 3D: Complete the Partial View 
+}
+
+<div class="row mb-2">
+
+    <label asp-for="CustName" class="col-sm-2 col-form-label">Name</label>
+    <div class= "col-sm-6">
+        <input type="text" asp-for="CustName" class="formcontrol" />
+    </div>
+    <div class="col-sm-3">
+        <span asp-validation-for="CustName" class="text-danger">
+        </span>
+    </div>
+
+</div>
+
+<div class="row mb-2">
+    <label asp-for="PaymentMode" class="col-sm-2 col-form-label">Payment Mode</label>
+    <div class="col-sm-9">
+       <div class="form-check">
+          <input type="radio" class="form-check-input" asp-for ="PaymentMode" value="C" checked="checked" /> Cash
+       </div>
+       <div class="form-check">
+            <input type="radio" class="form-check-input" asp-for="PaymentMode" value="I" checked="checked" /> Instalment
+       </div>
+       <div class="form-check">
+            <input type="radio" class="form-check-input" asp-for="PaymentMode" value="CI" checked="checked" /> Cash & Installment
+       </div>
+    </div>
+
+
+</div>
+
+<div class="row mb-2">
+
+    <label asp-for="PackageId" class="col-sm-2 col-form-label">Package</label>
+    <div class="col-sm-6">
+        <select class="form-select"
+        asp-for ="PackageId"
+        asp-items="@((SelectList)ViewData["packages"]!)">
+        <option value="" >--- SELECT ---</option>
+    </select>
+    </div>
+    <div class="col-sm-3">
+        <span asp-validation-for="PackageId" class="text-danger"></span>
+    </div>
+
+</div>
+
+
+@* 21011471 Eileen Ang *@

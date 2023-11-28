@@ -1,0 +1,22 @@
+﻿@model int
+
+@{
+    Layout = "_C286";
+    // TODO L07 TASK 1A: Razor Ex01
+    // if the number passed from the controller is 18 or more,
+    // display the statement "you are allowed to drive" Otherwise,
+    // display the statement "since your age is (insert the age here), you are now allowed to drive"
+}
+<div style="background-color: white;">
+    
+    @if (Model >= 18)
+    {
+        <h2>You are allowed to drive</h2>
+    }
+    else
+    {
+        <h2>Since your age is @Model, you are not allowed to drive</h2>
+    }
+
+</div>
+

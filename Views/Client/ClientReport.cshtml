@@ -1,0 +1,109 @@
+﻿@model List<Package>
+@{
+    Layout = null;
+    int cashCnt = 0, instalCnt = 0, comboCnt = 0;
+}
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Packages Report</title>
+    <style>
+        body {
+            font-family: monospace;
+        }
+        .label {
+            font-size: large;
+            font-weight: bold;
+            font-family: Arial;
+        }
+        .item {
+            font-size: large;
+            font-family: Arial;
+        }
+        .lineitem {
+            height: 1cm;
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <table style="border-width:thick;width:100%">
+            <tr>
+                <td>
+                    <h1>Report: Popularity of Packages</h1>
+                </td>
+            </tr>
+        </table>
+        <hr />
+    </article>
+
+    <article style="border:solid">
+        <table style="width:100%" border="1">
+            <thead>
+                <tr>
+                    <th>Package & No. of Clients</th>
+                    <th>Client & Payment Mode</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            @foreach (var pkg in Model)
+            {
+                <tr class="lineitem">
+                    <td class="lineitem">@pkg.PkgName (@pkg.Client.Count()) </td>
+                    <td class="lineitem">
+                        @if (pkg.Client.Count() == 0)
+                        {
+                            <text>None</text>
+                        }
+                        else
+                        {
+                            <table>
+                            @foreach (var c in pkg.Client)
+                            { 
+                                var payMode = 
+                                    c.PaymentMode == "C" ? "Cash" :
+                                    c.PaymentMode == "I" ? "Installment" :
+                                        "Cash & Installment";
+                                <tr>
+                                    <td>
+                                            <text>@c.CustName (@c.PaymentMode)</text>
+                                    </td>
+                                </tr>
+                            }
+                            </table>
+                        }
+                    </td>
+                    <td class="lineitem" 
+                        style="background-color:@(pkg.Client.Count() == 0 ? "hotpink":"lightgreen")">
+                        @if (pkg.Client.Count() == 0)
+                        {
+                            <text>More promotion needed</text>
+                        }
+                        else
+                        {
+                            <text>Ok</text>
+                        }
+                    </td>
+                </tr>
+
+                // Sum up the respective counts
+                cashCnt += pkg.Client.Count(c => c.PaymentMode == "C");
+                instalCnt += pkg.Client.Count(c => c.PaymentMode == "I");
+                comboCnt += pkg.Client.Count(c => c.PaymentMode == "CI");
+            }
+        </table>
+    </article>
+    <article style="text-align:left">
+        @{
+            // TODO L07 TASK 3I: Complete the View for Client Report
+        }
+
+        <p>Payment in Cash:@cashCnt</p>
+        <p>Payment in Instalment:@instalCnt</p>
+        <p>Payment in Cash & Instalment: @comboCnt</p>
+    </article>
+</body>
+</html>  
+
+@* 21011471 Eileen Ang *@

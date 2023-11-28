@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "_C286";
+
+    // TODO L07 TASK 1C: Razor Ex03
+    // Complete for each version of the snack stock looping. 
+    // Refer to LoopForSnackStock.cshtml
+}
+
+@{
+    var myRation = new List<Snack> 
+        {
+            new Snack("Eclair", 2.5, 12),
+            new Snack("Muffin", 5.43, 41)
+        };
+}
+<div style="background-color: white;">
+    <h2>Snack Stock Information</h2>
+
+    <ul>
+        @foreach (var snack in myRation)
+        {
+            <li>
+                <strong>Name:</strong> @snack.Name,
+                <strong>Price:</strong> $@snack.Price,
+                <strong>Stock:</strong> @snack.Stock
+            </li>
+        }
+    </ul>
+
+
+
+</div>

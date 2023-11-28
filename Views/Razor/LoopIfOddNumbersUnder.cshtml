@@ -1,0 +1,15 @@
+﻿@model int
+
+@{
+    Layout = "_C286";
+}
+<div style="background-color: white;">
+@for (int i = 1; i < Model; i++)
+{
+    if (i % 2 == 1)
+    {
+        <div>@i</div>
+        <br/>
+    }
+}
+</div>

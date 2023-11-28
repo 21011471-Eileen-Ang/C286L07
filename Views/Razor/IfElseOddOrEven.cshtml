@@ -1,0 +1,15 @@
+﻿@model int
+
+@{
+    Layout = "_C286";
+}
+<div style="background-color: white;">
+@if (Model % 2 == 0)
+{
+    <div>@Model is an even number</div>
+}
+else
+{
+    <div>@Model is an odd number</div>
+}
+</div>

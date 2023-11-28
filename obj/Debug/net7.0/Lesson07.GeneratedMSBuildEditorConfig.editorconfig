@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lesson07
+build_property.RootNamespace = Lesson07
+build_property.ProjectDir = C:\C286\MyVSCode\Lesson07\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\C286\MyVSCode\Lesson07
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Client/ClientCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENsaWVudENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Client/ClientMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENsaWVudE1haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Client/ClientReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENsaWVudFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Client/ClientUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENsaWVudFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Client/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFdlbGNvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Pokemon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Pokemon/ResultsDynamic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxSZXN1bHRzRHluYW1pYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Pokemon/ResultsModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxSZXN1bHRzTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/ExCanYouDrive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcRXhDYW5Zb3VEcml2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/ExForEachSnackStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcRXhGb3JFYWNoU25hY2tTdG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/ExHouses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcRXhIb3VzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/ExShowLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcRXhTaG93TGluZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/IfElseCheckPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcSWZFbHNlQ2hlY2tQcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/IfElseOddOrEven.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcSWZFbHNlT2RkT3JFdmVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/LoopForSnackStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcTG9vcEZvclNuYWNrU3RvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/LoopIfOddNumbersUnder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcTG9vcElmT2RkTnVtYmVyc1VuZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Razor/LoopWhileSnackStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcTG9vcFdoaWxlU25hY2tTdG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Shared/NotImplemented.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEltcGxlbWVudGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Shared/_BridalHouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CcmlkYWxIb3VzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Shared/_C286.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DMjg2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/Shared/_Client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C286/MyVSCode/Lesson07/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

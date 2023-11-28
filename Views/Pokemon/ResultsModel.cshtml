@@ -1,0 +1,58 @@
+﻿@model List<Pokedex>
+@{
+    Layout = "_C286";
+}
+
+@section Script {
+<style>
+    pre {
+        font-family: Consolas;
+        font-size: small;
+        font-weight: bold;
+        color: darkred;
+    }
+</style>
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <a asp-action="Index">Back to LINQ Demo</a>
+</div>
+
+<div style="background-color: white;">
+    <div>
+        <pre>List&lt;Pokedex&gt; data = _dbCtx.Pokedex.ToList();</pre>
+        <pre>@ViewData["Query"]</pre>
+    </div>
+
+@if (Model != null)
+{
+    var columns = Model[0].GetType().GetProperties();
+    <table class="table table-bordered table-condensed table-hover table-striped">
+        <thead>
+            <tr>
+                @foreach (var p in columns)
+                {
+                    <td>@p.Name</td>
+                }
+            </tr>
+        </thead>
+
+        @foreach (dynamic row in Model)
+        {
+            //var obj = row as IDictionary<string, object>;
+            <tr>
+                @foreach (var p in columns)
+                {
+                    <td>@p.GetValue(row)</td>
+                }
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h3>No data passed in</h3>
+}
+</div>
